@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/89/f6/ce/89f6ce982df88661784dcbb26815c2c9.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.out{
+    position: absolute;
+    background-color: #DAEAF6;
+    border: 6px solid #E0BBE4;
+    border-radius: 12px;
+    width: 550px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -275px;
+}
+.picture{
+    position: relative;
+    width: 180px;
+    height: 240px;
+    top: 30px;
+    left: 20px;
+}
+.in{
+    float: right;
+    margin-top: 40px;
+    margin-right: 70px;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
