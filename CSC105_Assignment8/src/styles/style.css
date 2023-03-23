@@ -1,0 +1,56 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    list-style-type: none;
+}
+/*Favorite*/
+#Fav{
+    
+    margin: 20px;
+}
+#Fav ul{
+    list-style-type: none;
+    padding:0;
+}
+a{
+    color: lightgreen;
+}
+a:hover {
+    color: Red;
+}
+
+/*Profile*/
+#Profile{
+    margin: 20px;
+    width: 40%;
+    padding: 20px;
+}
+#Profile:hover{
+    border: 1px solid red;
+    transition: 1s;
+}
+#Profile:hover h2{
+    color: red;
+    transition: 1s;
+}
+
+/*Gallery*/
+#Gallery{
+    margin: 20px;
+}
+#Gallery ul{
+    list-style-type: none;
+    padding: 0;
+}
+#Gallery img{
+    transition: transform 1s;
+}
+#Gallery img:hover {
+    transform: scale(1.2);
+}
+
+
+
