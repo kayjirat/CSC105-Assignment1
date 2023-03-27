@@ -1,7 +1,7 @@
 import React from 'react'
 import HomeIcon from '@mui/icons-material/Home';
 import { Box } from '@mui/system';
-import { List, Typography } from '@mui/material';
+import { List } from '@mui/material';
 import GroupIcon from '@mui/icons-material/Group';
 import StorefrontIcon from '@mui/icons-material/Storefront';
 import SettingsIcon from '@mui/icons-material/Settings';
